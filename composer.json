@@ -1,5 +1,5 @@
 {
-    "name": "facebook/graph-sdk",
+    "name": "leeto-digital-agency/php-graph-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
